@@ -1,0 +1,11 @@
+1. Ruta /
+(http://localhost:3000)
+Muestra el mensaje "Servidor activo". Sirve para comprobar que el servidor está funcionando.
+
+2. Ruta /saludo
+(http://localhost:3000/saludo)
+Muestra el mensaje "Hola comunidad".
+
+3. Ruta /mensaje/juan
+(http://localhost:3000/mensaje/juan)
+Muestra el mensaje "Hola juan".
