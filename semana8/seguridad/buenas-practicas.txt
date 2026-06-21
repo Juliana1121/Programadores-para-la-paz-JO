@@ -1,0 +1,5 @@
+1. Usar contraseñas seguras
+
+2. Revisar los permisos de las aplicaciones antes de instalarlas.
+
+3. Mantener los dispositivos y programas actualizados

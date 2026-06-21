@@ -1,2 +1,1 @@
-Al enviar un reporte mediante la ruta POST, la información queda almacenada en el sistema.
-Cuando se consulta la ruta GET /reportes, se muestra una lista con los reportes registrados, incluyendo su identificador, tipo y descripción.
+Al consultar la ruta GET /reportes, el sistema muestra una lista con los reportes registrados. Inicialmente la lista estaba vacía ([]), pero después de enviar un reporte mediante la ruta POST, este quedó almacenado y se mostró con su identificador, tipo y descripción.

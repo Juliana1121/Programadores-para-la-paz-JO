@@ -1,0 +1,5 @@
+1.Detectar y bloquear actividades sospechosas en el sistema.
+2.Hacer copias de seguridad periódicas de la información.
+3.Cerrar sesiones automáticamente después de un tiempo de inactividad.
+4.Evitar compartir enlaces de acceso público sin control.
+5.Monitorear el sistema para detectar errores o fallas.
