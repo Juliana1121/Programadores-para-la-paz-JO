@@ -1,0 +1,5 @@
+Evento: Se registra una nueva solicitud de apoyo en la plataforma.
+
+Mensaje a Telegram: "Se recibió una nueva solicitud. Ingresa a la plataforma para revisarla y darle seguimiento."
+
+Información que no debe enviarse: Datos personales como nombres completos, números de documento, direcciones, teléfonos, correos electrónicos o cualquier otra información confidencial.

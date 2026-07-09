@@ -1,0 +1,9 @@
+1. Como líder comunitario quiero asignar un responsable a cada reporte para asegurar que todos los casos tengan seguimiento.
+
+2. Como integrante de la comunidad quiero recibir notificaciones cuando el estado de un reporte cambie para conocer su avance.
+
+3. Como administrador quiero filtrar los reportes por categoría para encontrar la información más fácilmente.
+
+4. Como ciudadano quiero adjuntar fotografías a un reporte para aportar evidencia de la situación.
+
+5. Como miembro de la comunidad quiero consultar un historial de reportes resueltos para conocer las acciones que se han realizado anteriormente.

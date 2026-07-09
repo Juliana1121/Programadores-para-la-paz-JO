@@ -1,0 +1,8 @@
+Primero realizaría la tarea de crear el formulario para registrar reportes y luego la de guardar esa información en la base de datos. Considero que son las más importantes porque permiten que la comunidad pueda empezar a reportar situaciones y que la información quede almacenada para consultarla después.
+
+Para mí, una tarea está terminada cuando cumple con estos criterios:
+
+-Funciona correctamente.
+-Fue probada y no presenta errores.
+-Quedó guardada y registrada en Git.
+
