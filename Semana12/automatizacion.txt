@@ -1,0 +1,10 @@
+AUTOMATIZACIÓN
+
+Evento:
+Cuando un usuario crea una nueva causa en la plataforma.
+
+Mensaje:
+Se envía una notificación por Telegram indicando que se ha registrado una nueva causa y que está disponible para recibir apoyos.
+
+Información que no debe enviarse:
+No se deben compartir contraseñas, documentos de identidad, teléfonos, direcciones, correos electrónicos ni otros datos personales de los usuarios.

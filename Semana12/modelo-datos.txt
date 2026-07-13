@@ -1,0 +1,17 @@
+MODELO DE DATOS
+
+Entidad: Causa
+Esta entidad sirve para almacenar la información de cada causa o petición creada por los ciudadanos para que pueda ser consultada y apoyada.
+Campos:
+- id
+- titulo
+- descripcion
+- fecha
+
+Entidad: Apoyo
+Esta entidad sirve para registrar los apoyos que recibe cada causa, identificando quién la apoyó y la fecha en que se realizó el apoyo.
+Campos:
+- id
+- causa_id
+- nombre
+- fecha
