@@ -1,0 +1,24 @@
+MODELO DE DATOS
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre
+- correo
+- contraseña
+
+Propósito:
+Guardar la información de los usuarios que se registran en la plataforma para crear y apoyar peticiones.
+
+Entidad: Petición
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- categoria
+- fecha
+
+Propósito:
+Almacenar las peticiones creadas por los ciudadanos para que puedan ser consultadas y recibir apoyo de otros usuarios.
